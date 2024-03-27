@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{40970E9C-4BE8-F0D1-BD64-269E006BC015}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c4263150-7c3b-49fc-a512-c572ecf6a5b7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PanelsSystem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PanelsSystem.cs" Line="221" Column="55" />
+      <File FileName="Assets/Scripts/FrameSystem.cs" Line="70" Column="42" />
+      <File FileName="Assets/Scripts/GapSystem.cs" Line="83" Column="64" />
+      <File FileName="Assets/Scripts/ToFindSystem.cs" Line="33" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test Task" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
